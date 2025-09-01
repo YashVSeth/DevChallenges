@@ -1,0 +1,39 @@
+.card{
+   width: 368px;
+   height: 450px;
+    background:white;
+    border-radius: 8px;
+    margin: auto;
+    border: 2px;
+    box-shadow: 4px 4px 8px whitesmoke;
+    margin-top: 164px;
+    
+}
+img{
+    padding: 16px 16px 16px 16px;
+    width: 336px;
+    height: 152px;
+}
+
+.design{
+    padding: 4px 0 4px 0;
+height: 23px;
+width: 70px;
+background: rgb(179, 12, 235);
+border-radius: 15px;
+text-align: center;
+font-size: 15px;
+}
+.head{
+    padding: 16px 0 6px 0;
+}
+
+.content{
+    
+    padding: 0 0 20px 0;
+}
+.foot{
+    
+    padding: 20px 0 20px 0;
+   
+}
